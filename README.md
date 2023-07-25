@@ -9,6 +9,3 @@ python3 manage.py runserver
 ## Collaborators
 
 401d22 class
-
-
-# musicians-api
